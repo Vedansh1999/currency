@@ -1,0 +1,23 @@
+.curr{
+    float: right;
+    margin-right: 4rem;
+    border: 1px solid;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    background-color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+span{
+    color: #98A8F8;
+}
+
+ul{
+    margin-left: 9rem;
+    color: #98A8F8;
+}

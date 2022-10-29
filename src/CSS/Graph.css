@@ -1,0 +1,11 @@
+.graph{
+    object-fit: contain;
+    max-width: 50%;
+    border: 1px solid;
+    border-radius: 1rem;
+    background-color: white;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    overflow-y: hidden;
+    display: inline-block;
+}
